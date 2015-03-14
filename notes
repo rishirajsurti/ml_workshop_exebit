@@ -1,0 +1,7 @@
+precision = tp / (tp + fp)
+recall = tp / (tp + fn);
+true positive
+false positive/negative
+
+linear vs nonlinear regression
+over fitting the data
